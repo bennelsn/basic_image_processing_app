@@ -1,0 +1,159 @@
+[
+  {
+    "size": 179.0,
+    "color": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 61.5,
+      "y": 58.5
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  },
+  {
+    "end": {
+      "x": 50.0,
+      "y": 527.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 50.0,
+      "y": 50.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 551.0,
+      "y": 50.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 50.0,
+      "y": 50.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 51.0,
+      "y": 49.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 51.0,
+      "y": 49.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": -121.0,
+      "y": 49.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 50.0,
+      "y": 50.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 50.0,
+      "y": -92.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 50.0,
+      "y": 284.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 302.0,
+      "y": 496.0
+    },
+    "color": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 230.0,
+      "y": 232.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 29.0,
+      "y": 221.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 230.0,
+      "y": 231.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 286.0,
+      "y": 227.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 2.0,
+      "y": 235.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  },
+  {
+    "end": {
+      "x": 229.0,
+      "y": 270.0
+    },
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 231.0,
+      "y": 20.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Line"
+  }
+]

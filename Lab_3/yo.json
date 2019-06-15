@@ -1,0 +1,54 @@
+[
+  {
+    "size": 173.0,
+    "color": {
+      "value": -256,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 309.5,
+      "y": 286.5
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  },
+  {
+    "size": 163.0,
+    "color": {
+      "value": -16711732,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 271.5,
+      "y": 243.5
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  },
+  {
+    "size": 144.0,
+    "color": {
+      "value": -39424,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 237.0,
+      "y": 209.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  },
+  {
+    "size": 154.0,
+    "color": {
+      "value": -13421569,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 192.0,
+      "y": 161.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  }
+]

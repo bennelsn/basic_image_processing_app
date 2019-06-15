@@ -1,0 +1,229 @@
+[
+  {
+    "width": 112.0,
+    "height": 476.0,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1196.0,
+      "y": 1530.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Rectangle"
+  },
+  {
+    "width": 596.0,
+    "height": 124.0,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 814.0,
+      "y": 1386.0
+    },
+    "rotation": -0.5528412215925393,
+    "SHAPE_TYPE": "cs355.model.drawing.Rectangle"
+  },
+  {
+    "width": 132.0,
+    "height": 520.0,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 810.0,
+      "y": 772.0
+    },
+    "rotation": -0.9229848998677981,
+    "SHAPE_TYPE": "cs355.model.drawing.Rectangle"
+  },
+  {
+    "width": 648.0,
+    "height": 156.0,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1488.0,
+      "y": 786.0
+    },
+    "rotation": -0.6747409422235526,
+    "SHAPE_TYPE": "cs355.model.drawing.Rectangle"
+  },
+  {
+    "radius": 174.0,
+    "color": {
+      "value": -65332,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 542.0,
+      "y": 586.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Circle"
+  },
+  {
+    "width": 492.0,
+    "height": 728.0,
+    "color": {
+      "value": -13421569,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1134.0,
+      "y": 1004.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Ellipse"
+  },
+  {
+    "radius": 96.0,
+    "color": {
+      "value": -52225,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1176.0,
+      "y": 164.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Circle"
+  },
+  {
+    "width": 640.0,
+    "height": 540.0,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1172.0,
+      "y": 450.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Ellipse"
+  },
+  {
+    "width": 460.0,
+    "height": 360.0,
+    "color": {
+      "value": -618,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1174.0,
+      "y": 456.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Ellipse"
+  },
+  {
+    "width": 36.0,
+    "height": 228.0,
+    "color": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1090.0,
+      "y": 474.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Ellipse"
+  },
+  {
+    "width": 36.0,
+    "height": 232.0,
+    "color": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1214.0,
+      "y": 476.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Ellipse"
+  },
+  {
+    "radius": 166.0,
+    "color": {
+      "value": -52225,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1770.0,
+      "y": 574.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Circle"
+  },
+  {
+    "a": {
+      "x": -94.66666666666663,
+      "y": -265.33333333333326
+    },
+    "b": {
+      "x": 193.33333333333337,
+      "y": 42.66666666666674
+    },
+    "c": {
+      "x": -98.66666666666663,
+      "y": 222.66666666666674
+    },
+    "color": {
+      "value": -52225,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 542.6666666666666,
+      "y": 1521.3333333333333
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Triangle"
+  },
+  {
+    "a": {
+      "x": -256.0,
+      "y": 42.66666666666674
+    },
+    "b": {
+      "x": 280.0,
+      "y": 54.66666666666674
+    },
+    "c": {
+      "x": -24.0,
+      "y": -97.33333333333326
+    },
+    "color": {
+      "value": -52225,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1336.0,
+      "y": 1757.3333333333333
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Triangle"
+  },
+  {
+    "width": 488.0,
+    "height": 104.0,
+    "color": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "center": {
+      "x": 1136.0,
+      "y": 1060.0
+    },
+    "rotation": 0.0,
+    "SHAPE_TYPE": "cs355.model.drawing.Rectangle"
+  }
+]
